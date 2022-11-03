@@ -5,6 +5,7 @@
     <string name="hint_placemarkDescription">Description </string>
     <string name="menu_addPlacemark">Add</string>
     <string name="title_activity_placemark_list">PlacemarkListActivity</string>
+    <string name="menu_cancelPlacemark">Cancel</string>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
     <string name="second_fragment_label">Second Fragment</string>
